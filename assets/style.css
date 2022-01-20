@@ -1,0 +1,20 @@
+nav .sticky-top {
+	padding: 0 0 px;
+	height: 0 important!;
+}
+
+.banner {
+	height: 80vh;
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+		url(img/banner.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.banner-content {
+	height: 100%;
+	color: snow;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
